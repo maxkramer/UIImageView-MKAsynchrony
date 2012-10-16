@@ -27,6 +27,6 @@ The major difference between this category and [AFNetworking's](https://github.c
 
 From here, I am not really looking to add any further methods to the category, but feel free to add any issues or pull requests if you have any issues to report or would like to add some features to the category.
 
-Furthermore, feel free to email me through my [website](http://maxk.me) or through [twitter](http://twitter.com/_max_k).
+Furthermore, feel free to contact me through my [website](http://maxk.me) or through [twitter](http://twitter.com/_max_k).
 
 Enjoy!
